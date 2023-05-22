@@ -33,6 +33,7 @@ export default class Introduction extends Component {
                         <div className="desc">
                           <h1>I love building<br /> THINGS !!</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/buithuytien" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                            <p><a className="btn btn-primary btn-learn" href="https://www.linkedin.com/in/thuy-tien-bui-b49331b4/" target="_blank" rel="noopener noreferrer">View LinkedIn <i className="icon-linkedin2" /></a></p>
                         </div>
                       </div>
                     </div>

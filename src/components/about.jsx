@@ -4,26 +4,26 @@ export default class About extends Component {
   render() {
     return (
       <div>
-        <section className="colorlib-about" data-section="about">
-        <div className="colorlib-narrow-content">
-            <div className="row">
-            <div className="col-md-12">
-                <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-                <div className="col-md-12">
-                    <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Im a Computer Science student from Northeastern University, graduating in May 2024.</p>
-                        <p>I am experienced with developing websites and microservices. I also have experience in machine learning engineer.</p>
-                        <p>I love taking on changeing and solving real-world problems while embracing new skills and technology. I am passionate and committed to social impact through equity in science and technology</p>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
-        </section>
-        <section className="colorlib-about">
+        {/*<section className="colorlib-about" data-section="about">*/}
+        {/*<div className="colorlib-narrow-content">*/}
+        {/*    <div className="row">*/}
+        {/*    <div className="col-md-12">*/}
+        {/*        <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">*/}
+        {/*        <div className="col-md-12">*/}
+        {/*            <div className="about-desc">*/}
+        {/*            <span className="heading-meta">About Us</span>*/}
+        {/*            <h2 className="colorlib-heading">Who Am I?</h2>*/}
+        {/*            <p>Im a Computer Science student from Northeastern University, graduating in May 2024.</p>*/}
+        {/*                <p>I am experienced with developing websites and microservices. I also have experience in machine learning engineer.</p>*/}
+        {/*                <p>I love taking on changeing and solving real-world problems while embracing new skills and technology. I am passionate and committed to social impact through equity in science and technology</p>*/}
+        {/*            </div>*/}
+        {/*        </div>*/}
+        {/*        </div>*/}
+        {/*    </div>*/}
+        {/*    </div>*/}
+        {/*</div>*/}
+        {/*</section>*/}
+        <section className="colorlib-about" data-section="skills">
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
