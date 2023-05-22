@@ -1,10 +1,9 @@
 {
+  "homepage": "https://dbarochiya.github.io/me",
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^16.8.3",
@@ -28,5 +27,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
