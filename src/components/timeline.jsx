@@ -9,7 +9,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <h2 className="colorlib-heading animate-box">Work experience</h2>
               </div>
             </div>
             <div className="row">
@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Salesforce - SDE Intern <span> Summer 2023</span></h2>
+                        <p>Machine Learning Engineer with Scala and Pytorch</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,15 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Amazon Robotics - SDE Intern <span> Jan 2023 - Apr 2023</span></h2>
+                        <ul>
+                          <li>Develop web application with microservice backend (Typescipt, React, NestJS, DynamoDB) to track services’ health metrics
+                            in 500+ warehouses. Reduce 95% navigation time for on-call engineers.</li>
+                          <li>Develop collaborative editable form (Two-phase locking, NestJS, DynamoDB) enabling concurrent edit from multiple people for request gathering. Reduce 50% of redundant communication loop.</li>
+                          <li>Setup cloud infrastructure as code (AWS CDK, Typescript) with AWS Virtual Private Cloud model to configure secure
+                            connection to Amazon’s on-premise services.</li>
+                          {/*<li>Implement authorization for internal monitoring web pages with secured Remote Procedure Call to on-premise services</li>*/}
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -43,8 +50,13 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Athenahealth - SDE Intern <span>Summer 2022</span></h2>
+                        <ul>
+                          <li>Developed microservice application to automate claim tracking for hospitals. Estimated to save annualized 2 million USD.</li>
+                          <li>Implemented Rest API, Spring Boot, JPA, JDBC, postgreSQL database and Flyway database migration to perform CRUD
+                            operations on microservice app with full-coverage Junit tests.</li>
+                          <li>Wrote end-to-end JUnit tests for request receive, database query, response body, and error handling.</li>
+                        </ul>
                       </div>
                     </div>
                   </article>
