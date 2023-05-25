@@ -1427,34 +1427,3 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
-
-/* for project items*/
-.project-item {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.image-container {
-  flex: 1;
-  max-width: 50%;
-}
-
-.project-image {
-  /*max-width: 100%;*/
-  /*max-height: 100%;*/
-  /*width: auto;*/
-  /*height: auto;*/
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.text-container {
-  flex: 1;
-  padding: 0 10px;
-}

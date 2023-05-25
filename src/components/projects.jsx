@@ -16,7 +16,7 @@ export default class Projects extends Component {
 		  {
 			  project_title: "Abstractive News Summarization",
 			  project_description: "Implemented transformer-based and RNN-based encoder decoder model to generate abstractive summary of news with GUI. Achieved Rouge-2 score of 18.22, comparable to SOTA models.",
-			  demo_link: "https://www.youtube.com/watch?v=1QX8QX9oZqM",
+			  demo_link: "https://www.youtube.com/watch?v=Sj9S0k2Ikto",
 			  github_link: "https://github.com/buithuytien/text_sum"
 		  },
 		  {
