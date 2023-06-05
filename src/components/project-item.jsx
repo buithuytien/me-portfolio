@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import { Row, Col } from 'react-bootstrap';
 
-export const ProjectItem = ({project_title, project_description, demo_link, github_link}) => {
+export const ProjectItem = ({project_title, project_description, demo_link, github_link, img_link}) => {
     return (
         <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
             {/*<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>*/}
@@ -20,7 +20,7 @@ export const ProjectItem = ({project_title, project_description, demo_link, gith
                         {/*/>*/}
                         <div>
                             <img style={{maxWidth: "100%"}}
-                                src={"https://i.imgur.com/yvDG4WK.png"}>
+                                src={img_link}>
                             </img>
                         </div>
                         <br/>

@@ -17,7 +17,7 @@ export default class Introduction extends Component {
                           <h1>Hi! I'm Cheryl</h1>
                           <h2>I'm an aspiring Software Engineer</h2>
                           <h5>Graduating in May 2024</h5>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/17Pgh-8kw42kwuOISizXyme7cxqDE-4xm/view?usp=share_link" target="_blank" rel="noopener noreferrer">Resume<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1QcfWculs5Q7aSYmwqP-gRlfhdKs8qqCz/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>

@@ -10,20 +10,23 @@ export default class Projects extends Component {
 			  project_title: "Distributed E-commerce application",
 			  project_description: "Implemented distributed consensus and replicated data storage for a e-commerce web app with 3 consensus server replicas. Built a RESTful API using Java Spring and MySQL. Implemented a web application using ReactJS.",
 			  demo_link: "https://drive.google.com/file/d/14dRucXjaX8Lt84e71hbHEM_sFvpH3T4Y/view?usp=share_link",
-			  github_link: "https://github.com/thaipham98/docker-project"
+			  github_link: "https://github.com/thaipham98/docker-project",
+			  img_link: "https://i.imgur.com/CuODMnd.png"
 		  },
 
 		  {
 			  project_title: "Abstractive News Summarization",
 			  project_description: "Implemented transformer-based and RNN-based encoder decoder model to generate abstractive summary of news with GUI. Achieved Rouge-2 score of 18.22, comparable to SOTA models.",
 			  demo_link: "https://www.youtube.com/watch?v=Sj9S0k2Ikto",
-			  github_link: "https://github.com/buithuytien/text_sum"
+			  github_link: "https://github.com/buithuytien/text_sum",
+			  img_link: "https://i.imgur.com/URTtZQl.png"
 		  },
 		  {
 			  project_title: "Multiplayer Chess over LAN with sockets (Java, networking)",
 			  project_description: "Developed multiplayer Chess game with GUI connecting 2 computers from Local Area Network with JUnit tests.",
 			  demo_link: "https://www.youtube.com/watch?v=TPxtkUUtu5s&t=121s",
-			  github_link: "https://github.com/buithuytien/ChessJava2"
+			  github_link: "https://github.com/buithuytien/ChessJava2",
+			  img_link: "https://i.imgur.com/9yIp4q1.png"
 		  }
 	  ];
     return (
