@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Amazon LLC - SDE Intern <span> Fall 2023</span></h2>
+                        <h2>Amazon - SDE Intern <span> Fall 2023</span></h2>
                         <ul>
                           <li>Software Engineer Intern at Business Data Technology team.</li>
                         </ul>
