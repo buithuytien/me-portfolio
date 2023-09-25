@@ -49,8 +49,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Microservice</h3>
-                    <p>Experienced in building microservices on AWS (EC2, Lambda, SES, SQS) with NodeJS and Java Spring</p>
+                    <h3>Microservice & Cloud</h3>
+                    <p>Experienced in building microservices with REST APIs on AWS (Lambda, DynamoDB, SES, SQS) with NodeJS and Java Spring</p>
                 </div>
                 </div>
             </div>

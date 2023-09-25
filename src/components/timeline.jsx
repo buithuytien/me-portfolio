@@ -21,8 +21,25 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>Amazon LLC - SDE Intern <span> Fall 2023</span></h2>
+                        <ul>
+                          <li>Software Engineer Intern at Business Data Technology team.</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>Salesforce - SDE Intern <span> Summer 2023</span></h2>
-                        <p>Machine Learning Engineer with Scala and Pytorch</p>
+                        <ul>
+                          <li>Developed Google Analytics (GA) Audience data generator (React, NodeJS) to generate daily 300 test cases for GA integration with Salesforce Marketing Cloud, saving at least 24 hours for each customer support case.</li>
+                          <li>Created Teamcity CI/CD template for automated UI test with headless Chrome and Docker adopted by 10+ engineers.</li>
+                          <li>Developed Audience listing and search UI features (React, Redux) in GA Integration to be used by 400+ customers.</li>
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -32,7 +49,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Amazon Robotics - SDE Intern <span> Jan 2023 - Apr 2023</span></h2>
+                        <h2>Amazon Robotics - SDE Intern <span> Spring 2023</span></h2>
                         <ul>
                           <li>Develop web application with microservice backend (Typescipt, React, NestJS, DynamoDB) to track services’ health metrics
                             in 500+ warehouses. Reduce 95% navigation time for on-call engineers.</li>
