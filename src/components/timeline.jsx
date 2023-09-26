@@ -51,8 +51,8 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Amazon Robotics - SDE Intern <span> Spring 2023</span></h2>
                         <ul>
-                          <li>Develop web application with microservice backend (Typescipt, React, NestJS, DynamoDB) to track services’ health metrics
-                            in 500+ warehouses. Reduce 95% navigation time for on-call engineers.</li>
+                          <li>Develop web application with microservice backend (Typescipt, React, NextJS, DynamoDB) to track robotics' health metrics
+                            in 100+ Amazon warehouses. Reduce 90% navigation time for on-call engineers.</li>
                           <li>Develop collaborative editable form (Two-phase locking, NestJS, DynamoDB) enabling concurrent edit from multiple people for request gathering. Reduce 50% of redundant communication loop.</li>
                           <li>Setup cloud infrastructure as code (AWS CDK, Typescript) with AWS Virtual Private Cloud model to configure secure
                             connection to Amazon’s on-premise services.</li>
